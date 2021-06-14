@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid-race-chart/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/covid-race-chart/static/js/main.ed15dd42.chunk.js",
+    "main.js.map": "/covid-race-chart/static/js/main.ed15dd42.chunk.js.map",
+    "runtime-main.js": "/covid-race-chart/static/js/runtime-main.d5022364.js",
+    "runtime-main.js.map": "/covid-race-chart/static/js/runtime-main.d5022364.js.map",
+    "static/js/2.429af2f2.chunk.js": "/covid-race-chart/static/js/2.429af2f2.chunk.js",
+    "static/js/2.429af2f2.chunk.js.map": "/covid-race-chart/static/js/2.429af2f2.chunk.js.map",
+    "static/js/3.24d6ff00.chunk.js": "/covid-race-chart/static/js/3.24d6ff00.chunk.js",
+    "static/js/3.24d6ff00.chunk.js.map": "/covid-race-chart/static/js/3.24d6ff00.chunk.js.map",
+    "index.html": "/covid-race-chart/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/covid-race-chart/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.429af2f2.chunk.js.LICENSE.txt": "/covid-race-chart/static/js/2.429af2f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5022364.js",
+    "static/js/2.429af2f2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ed15dd42.chunk.js"
+  ]
+}
