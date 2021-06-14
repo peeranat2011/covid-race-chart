@@ -85,16 +85,16 @@ function App() {
   return (
     <div className="App">
       <h1>Covid Global Cases by SGN</h1>
-      <h2>{date}</h2>
+      <label>{date}</label>
       <ChartRace
         data={data}
-        backgroundColor='#000'
+        backgroundColor='white'
         width={760}
         padding={12}
         itemHeight={58}
         gap={12}
-        titleStyle={{ font: 'normal 400 13px Arial', color: '#fff' }}
-        valueStyle={{ font: 'normal 400 11px Arial', color: 'rgba(255,255,255, 0.42)' }}
+        titleStyle={{ font: 'normal 400 13px Arial', color: 'rgb(0 0 0)' }}
+        valueStyle={{ font: 'normal 400 11px Arial', color: 'rgb(0 0 0)' }}
       /> 
 
 
